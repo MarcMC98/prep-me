@@ -1,0 +1,23 @@
+# env / secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# chroma persistence
+chroma_store/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# venv
+.venv/
+venv/
+    
